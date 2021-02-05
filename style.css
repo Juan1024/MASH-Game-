@@ -31,8 +31,8 @@ h1 {
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: pink;
-  border: 3px red;
+  background: red;
+  border: 3px pink;
   border-radius: 6px;
   color: red;
   cursor: pointer; 
