@@ -1,8 +1,8 @@
 style.css
 /* Body styling */
 body {
-  background-color: pink;
-  color:pink;
+  background:#713e94;
+  color:#fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -23,6 +23,7 @@ h1 {
 
 /* Game Directions */
 .description {
+	color: red;
   text-align: center;
   margin: 80px auto 40px;
 }
