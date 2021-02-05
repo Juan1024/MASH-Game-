@@ -64,7 +64,7 @@ h1 {
 }
 
 .choice-bucket input {
-  border: red;
+  border: 0;
   border-radius: 6px;
   color: red;
   font-size: 18px;
