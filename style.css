@@ -33,7 +33,7 @@ h1 {
 .button-submit {
   background: pink;
   border: 3px ;
-  border-radius: 6px;
+  border-radius: 6px color: red;
   color: red;
   cursor: pointer; 
   display: block;
